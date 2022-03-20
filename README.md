@@ -7,20 +7,19 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # Installation
 
 Öncelikle projeyi clonelayın. 
-
-` 
+```
 gh repo clone Sumeyye543/kodluyoruzilkrepo
-` 
+```
 
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
-`
+```
 cd kodluyoruzilkrepo
 code .
-` 
+```
 
 # Contributing
 
